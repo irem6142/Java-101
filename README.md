@@ -1,3 +1,1 @@
-# JavaDiziler
-Diziler
-Java ile ilgili örnekler
+# Java-101
